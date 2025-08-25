@@ -89,9 +89,10 @@ class AlkoSpider(scrapy.Spider):
             pass
 
     def _pick_city_uuid_simple(self, city_name, cities):
+        print(city_name)
         if city_name and cities:
             for c in cities:
-                name = str(c.get("name") or "").strip().lower()
+                name = str(c.get("slug") or "").strip().lower()
                 if name == city_name:
                     uuid = str(c.get("uuid") or "").strip()
                     if uuid:
