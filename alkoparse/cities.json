@@ -1,0 +1,291 @@
+
+[
+        {
+            "uuid": "396df2b5-7b2b-11eb-80cd-00155d039009",
+            "name": "Москва",
+            "slug": "moskva",
+            "longitude": "37.620393",
+            "latitude": "55.75396",
+            "accented": true
+        },
+        {
+            "uuid": "985b3eea-46b4-11e7-83ff-00155d026416",
+            "name": "Сочи",
+            "slug": "sochi",
+            "longitude": "39.723062",
+            "latitude": "43.585525",
+            "accented": true
+        },
+        {
+            "uuid": "a0d7665a-46af-11e7-83ff-00155d026416",
+            "name": "Абинск",
+            "slug": "abinsk",
+            "longitude": "38.161754",
+            "latitude": "44.867924",
+            "accented": false
+        },
+        {
+            "uuid": "f9919d0a-5935-11ea-8102-00155d05c408",
+            "name": "Азов",
+            "slug": "azov",
+            "longitude": "39.423267",
+            "latitude": "47.112129",
+            "accented": false
+        },
+        {
+            "uuid": "2dd7cbfa-46af-11e7-83ff-00155d026416",
+            "name": "Анапа",
+            "slug": "anapa",
+            "longitude": "37.316259",
+            "latitude": "44.894997",
+            "accented": false
+        },
+        {
+            "uuid": "70c5443c-46b2-11e7-83ff-00155d026416",
+            "name": "Апшеронск",
+            "slug": "apsheronsk",
+            "longitude": "39.730078",
+            "latitude": "44.458432",
+            "accented": false
+        },
+        {
+            "uuid": "23d990c0-46af-11e7-83ff-00155d026416",
+            "name": "Армавир",
+            "slug": "armavir",
+            "longitude": "41.132429",
+            "latitude": "45.001116",
+            "accented": false
+        },
+        {
+            "uuid": "6af74c99-5ce8-11e8-80f0-00155d2fc707",
+            "name": "Архипо-Осиповка с.",
+            "slug": "arkhipo-osipovka-s",
+            "longitude": "38.531455",
+            "latitude": "44.371311",
+            "accented": false
+        },
+        {
+            "uuid": "0a952d9d-46b0-11e7-83ff-00155d026416",
+            "name": "Белореченск",
+            "slug": "belorechensk",
+            "longitude": "39.8780965",
+            "latitude": "44.765262",
+            "accented": false
+        },
+        {
+            "uuid": "9cd52d9b-000d-11f0-bba5-3cecef676e4f",
+            "name": "Брюховецкая",
+            "slug": "bryukhoveckaya",
+            "longitude": "38.997286",
+            "latitude": "45.801997",
+            "accented": false
+        },
+        {
+            "uuid": "1273cc5c-1361-11ef-bb9c-3cecef676e4f",
+            "name": "Варениковская ст-ца",
+            "slug": "varenikovskaya-st-ca",
+            "longitude": "37.638467",
+            "latitude": "45.119924",
+            "accented": false
+        },
+        {
+            "uuid": "66625b69-719e-11ee-bb95-3cecef676e4f",
+            "name": "Витязево с.",
+            "slug": "vityazevo-s",
+            "longitude": "37.283803",
+            "latitude": "45.002359",
+            "accented": false
+        },
+        {
+            "uuid": "7188bf0b-6b63-11eb-80cd-00155d039009",
+            "name": "Воронеж",
+            "slug": "voronezh",
+            "longitude": "39.196854",
+            "latitude": "51.659306",
+            "accented": false
+        },
+        {
+            "uuid": "68c409f0-d7d3-11ea-8104-00155d052b02",
+            "name": "Выселки ст-ца",
+            "slug": "vyselki-st-ca",
+            "longitude": "39.65541",
+            "latitude": "45.580039",
+            "accented": false
+        },
+        {
+            "uuid": "bb83b39a-46af-11e7-83ff-00155d026416",
+            "name": "Геленджик",
+            "slug": "gelendzhik",
+            "longitude": "38.079055",
+            "latitude": "44.563022",
+            "accented": false
+        },
+        {
+            "uuid": "4813fbc4-46af-11e7-83ff-00155d026416",
+            "name": "Горячий ключ",
+            "slug": "goryachiy-klyuch",
+            "longitude": "39.135563",
+            "latitude": "44.634425",
+            "accented": false
+        },
+        {
+            "uuid": "b78acc1f-e587-11ed-badf-3cecef676e4f",
+            "name": "Гулькевичи",
+            "slug": "gulkevichi",
+            "longitude": "40.691778",
+            "latitude": "45.3604789",
+            "accented": false
+        },
+        {
+            "uuid": "b9436d56-a95c-11e9-80f8-00155d2fc707",
+            "name": "Джубга",
+            "slug": "dzhubga",
+            "longitude": "38.702216",
+            "latitude": "44.314787",
+            "accented": false
+        },
+        {
+            "uuid": "65e2983b-d801-11eb-80d3-00155d03900a",
+            "name": "Евпатория",
+            "slug": "evpatoriya",
+            "longitude": "33.367634",
+            "latitude": "45.190629",
+            "accented": false
+        },
+        {
+            "uuid": "68c27af3-46b1-11e7-83ff-00155d026416",
+            "name": "Ейск",
+            "slug": "eysk",
+            "longitude": "38.276451",
+            "latitude": "46.711524",
+            "accented": false
+        },
+        {
+            "uuid": "7a3d96d4-46b1-11e7-83ff-00155d026416",
+            "name": "Кабардинка с.",
+            "slug": "kabardinka-s",
+            "longitude": "37.935917",
+            "latitude": "44.650696",
+            "accented": false
+        },
+        {
+            "uuid": "61ba57f9-8102-11e8-80f0-00155d2fc707",
+            "name": "Каневская ст-ца",
+            "slug": "kanevskaya-st-ca",
+            "longitude": "38.971944",
+            "latitude": "46.084805",
+            "accented": false
+        },
+        {
+            "uuid": "fb131b9c-1c05-11ea-8100-00155d2fc707",
+            "name": "Керчь",
+            "slug": "kerch",
+            "longitude": "36.467352",
+            "latitude": "45.3562",
+            "accented": false
+        },
+        {
+            "uuid": "9a12b886-46b1-11e7-83ff-00155d026416",
+            "name": "Кореновск",
+            "slug": "korenovsk",
+            "longitude": "39.459002",
+            "latitude": "45.464113",
+            "accented": false
+        },
+        {
+            "uuid": "4a70f9e0-46ae-11e7-83ff-00155d026416",
+            "name": "Краснодар",
+            "slug": "krasnodar",
+            "longitude": "38.975996",
+            "latitude": "45.040216",
+            "accented": true
+        },
+        {
+            "uuid": "54262d02-46b1-11e7-83ff-00155d026416",
+            "name": "Кропоткин",
+            "slug": "kropotkin",
+            "longitude": "40.572859",
+            "latitude": "45.433295",
+            "accented": false
+        },
+        {
+            "uuid": "5a727244-46b2-11e7-83ff-00155d026416",
+            "name": "Крымск",
+            "slug": "krymsk",
+            "longitude": "37.985495",
+            "latitude": "44.934412",
+            "accented": false
+        },
+        {
+            "uuid": "ccbcbbc5-46b1-11e7-83ff-00155d026416",
+            "name": "Тихорецк",
+            "slug": "tikhoreck",
+            "longitude": "40.125929",
+            "latitude": "45.85468",
+            "accented": false
+        },
+        {
+            "uuid": "21a1fa1b-46b0-11e7-83ff-00155d026416",
+            "name": "Туапсе",
+            "slug": "tuapse",
+            "longitude": "39.0825486",
+            "latitude": "44.1104372",
+            "accented": false
+        },
+        {
+            "uuid": "054b199f-3746-11ee-bb53-3cecef676e4f",
+            "name": "Тула",
+            "slug": "tula",
+            "longitude": "37.615349",
+            "latitude": "54.191982",
+            "accented": false
+        },
+        {
+            "uuid": "2c76d20f-46b0-11e7-83ff-00155d026416",
+            "name": "Усть-Лабинск",
+            "slug": "ust-labinsk",
+            "longitude": "39.692966",
+            "latitude": "45.2227623",
+            "accented": false
+        },
+        {
+            "uuid": "9bd5a232-d7d5-11ea-8104-00155d052b02",
+            "name": "Феодосия",
+            "slug": "feodosiya",
+            "longitude": "35.382429",
+            "latitude": "45.031929",
+            "accented": false
+        },
+        {
+            "uuid": "257acf8a-4016-11ef-bb9f-3cecef676e4f",
+            "name": "Хадыженск",
+            "slug": "khadyzhensk",
+            "longitude": "39.531981",
+            "latitude": "44.412303",
+            "accented": false
+        },
+        {
+            "uuid": "a4a3fed4-9da7-11ef-bba5-3cecef676e4f",
+            "name": "Холмская с.",
+            "slug": "kholmskaya-s",
+            "longitude": "38.389225",
+            "latitude": "44.84804",
+            "accented": false
+        },
+        {
+            "uuid": "22a48d51-4adc-11e8-80ee-00155d2fc707",
+            "name": "Шахты",
+            "slug": "shakhty",
+            "longitude": "40.215958",
+            "latitude": "47.708485",
+            "accented": false
+        },
+        {
+            "uuid": "593c9c80-c28c-11ea-8102-00155d05c408",
+            "name": "Ялта",
+            "slug": "yalta",
+            "longitude": "34.166353",
+            "latitude": "44.495273",
+            "accented": false
+        }
+]
